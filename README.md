@@ -11,4 +11,8 @@
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/Luc1est/azure-network-protocols)
 
 - <b>Network files & permission Shares
+
+
+   - [Navigating files & permission shares in Active directory](https://github.com/Luc1est/Network-file-shares-permissions)
+
 - <h2>🤳Connect with me:</h2>
